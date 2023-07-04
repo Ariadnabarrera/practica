@@ -1,1 +1,1 @@
-# Práctica
+# Proyectos de práctica
